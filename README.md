@@ -11,8 +11,8 @@
 ## Установка
 1. Клонируйте репозиторий:
    ```bash
-   git clone <репозиторий>
-   cd <репозиторий>
+   git clone https://github.com/Ladyk3000/Triumph-Test-Task
+   cd Triumph-Test-Task
    ```
 2. Создайте и активируйте виртуальное окружение:
    ```bash
